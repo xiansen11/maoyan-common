@@ -1,0 +1,1 @@
+# maoyan-common`n`nShared library for Maoyan Movie microservices.
